@@ -7,4 +7,8 @@
     <RootNamespace>SemesterYear_Project2_Jemorgan3</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
 </Project>
